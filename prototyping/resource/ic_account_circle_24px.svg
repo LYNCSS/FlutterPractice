@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="168.877" height="168.877" viewBox="0 0 168.877 168.877">
+  <defs>
+    <filter id="ic_account_circle_24px" x="0" y="0" width="168.877" height="168.877" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#ic_account_circle_24px)">
+    <path id="ic_account_circle_24px-2" data-name="ic_account_circle_24px" d="M68.439,2a66.439,66.439,0,1,0,66.439,66.439A66.463,66.463,0,0,0,68.439,2Zm0,19.932A19.932,19.932,0,1,1,48.507,41.863,19.9,19.9,0,0,1,68.439,21.932Zm0,94.343A47.839,47.839,0,0,1,28.575,94.881c.2-13.221,26.575-20.463,39.863-20.463,13.221,0,39.664,7.242,39.863,20.463A47.839,47.839,0,0,1,68.439,116.274Z" transform="translate(16 13)" opacity="0.6"/>
+  </g>
+</svg>
